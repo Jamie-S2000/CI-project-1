@@ -25,6 +25,7 @@ header {
     text-align: center;
     text-transform: capitalize;
     width: 100%;
+    border-bottom: 2px #181818 solid;
 }
 
 .title {
