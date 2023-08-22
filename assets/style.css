@@ -21,8 +21,16 @@ header {
     text-transform: capitalize;
 }
 
+header nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 header a {
     font-family: 'Montserrat Alternates', sans-serif;
     color: #2B1F31;
     text-decoration: none;
+    padding: 2px 5px;
 }
