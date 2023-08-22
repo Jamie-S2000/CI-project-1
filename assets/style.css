@@ -4,4 +4,10 @@
 
 h1 {
     font-family: 'Montserrat Alternates', sans-serif;
+    color: #2B1F31
+}
+
+/*Header Styles*/
+header {
+    background-color: #957E6D;
 }
