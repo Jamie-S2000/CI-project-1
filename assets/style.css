@@ -63,14 +63,19 @@ footer {
 
 #socials {
     text-align: center;
-    padding: 0 10%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-content: flex-end;
-    font-size: 200%;
     list-style-type: none;
+}
+
+#socials li {
+    padding: 15px 5%;
+}
+
+#socials  i {
     color: #2B1F31;
-    margin-bottom: 0;
+    font-size: 200%;
 }
 
 /*media queries*/
@@ -87,12 +92,9 @@ footer {
 
     #socials {
         text-align: center;
-        padding: 0 40%;
         display: flex;
-        justify-content: space-evenly;
+        justify-content: center;
         align-content: flex-end;
-        font-size: 200%;
         list-style-type: none;
-        color: #2B1F31;
     }
 }
