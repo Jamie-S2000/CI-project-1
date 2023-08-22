@@ -79,6 +79,13 @@ main {
     padding: 0 10px 10px 10px;
 }
 
+#les-paul {
+    background: url(../assets/pictures/les-paul.webp) no-repeat center  center/cover;
+    height: 50vh;
+    width: 100%;
+    position: relative;
+}
+
 /*footer styles*/
 footer {
     margin-top: auto;
@@ -135,6 +142,13 @@ footer {
         margin-left: 50%;
         margin-top: 37vh;
         padding: 0 5%;
+    }
+
+    #les-paul {
+        position: relative;
+        flex-wrap: wrap;
+        height: 100vh;
+        width: 50%;
     }
 
     #socials {
