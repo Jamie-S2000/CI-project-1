@@ -49,6 +49,15 @@ header a {
 /*main styles*/
 
 /*footer styles*/
+#socials {
+    text-align: center;
+    padding: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 200%;
+    list-style-type: none;
+    color: #2B1F31;
+}
 
 /*media queries*/
 
