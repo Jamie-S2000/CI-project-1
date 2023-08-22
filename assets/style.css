@@ -68,6 +68,14 @@ main {
     position: relative;
 }
 
+#about-us-text {
+    font-size: 1.3rem;
+}
+
+#about-us-text li {
+    padding: 0 10px 10px 10px;
+}
+
 /*footer styles*/
 footer {
     margin-top: auto;
@@ -123,7 +131,6 @@ footer {
         flex: 1;
         margin-left: 50%;
         margin-top: 37vh;
-        font-size: 1.3rem;
     }
 
     #socials {
