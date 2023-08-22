@@ -152,7 +152,8 @@ footer {
         position: absolute;
         flex-wrap: wrap;
         margin-top: 37vh;
-        padding: 0 5%;
+        margin-right: 50%;
+        padding: 0 10%;
     }
 
     #les-paul {
@@ -175,5 +176,9 @@ footer {
 @media screen and (min-width: 1024px) {
     #about-us-text {
         padding: 0 7.5%;
+    }
+
+    #ot-text {
+        padding: 0 12.5%;
     }
 }
