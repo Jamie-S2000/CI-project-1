@@ -134,6 +134,7 @@ footer {
         flex: 1;
         margin-left: 50%;
         margin-top: 37vh;
+        padding: 0 5%;
     }
 
     #socials {
@@ -141,5 +142,11 @@ footer {
         display: flex;
         justify-content: center;
         align-content: flex-end;
+    }
+}
+
+@media screen and (min-width: 1024px;) {
+    #about-us-text {
+        padding: 0 7.5%;
     }
 }
