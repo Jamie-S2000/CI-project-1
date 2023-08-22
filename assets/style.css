@@ -26,6 +26,8 @@ header {
     text-transform: capitalize;
     width: 100%;
     border-bottom: 2px #181818 solid;
+    position: fixed;
+    z-index: 99;
 }
 
 .title {
