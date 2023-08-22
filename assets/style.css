@@ -9,6 +9,8 @@
 /*general styles*/
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: #F2F0EB;
+    color: #181818;
 }
 
 h1, h2 {
