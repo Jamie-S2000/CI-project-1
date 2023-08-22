@@ -26,7 +26,7 @@ header {
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 header nav {
@@ -39,9 +39,24 @@ header nav {
 header a {
     font-family: 'Montserrat Alternates', sans-serif;
     color: #2B1F31;
-    font-size: 1.25rem;
+    font-size: .9rem;
     text-decoration: none;
     padding: 2px 5px;
 }
 
 /*main styles*/
+
+/*footer styles*/
+
+/*media queries*/
+
+/*tablets and larger*/
+@media screen and (min-width: 768px) {
+    .title {
+        font-size: 2rem;
+    }
+
+    header a {
+        font-size: 1.25rem;
+    }
+}
