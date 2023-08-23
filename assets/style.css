@@ -118,6 +118,18 @@ fieldset {
     text-align: center;
 }
 
+.button {
+    font-family:'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding: 6px 12px;
+    background-color: #F2F0EB;
+    border-radius: 5%;
+}
+
+.button:hover {
+    background-color: #F2AB5D;
+}
+
 .block-label {
     display: block;
 }
