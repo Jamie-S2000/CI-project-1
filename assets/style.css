@@ -241,12 +241,27 @@ footer {
         margin: 0 25%;
     }
 
+    #jam-nights {
+        display: flex;
+        flex-direction: row;
+    }
+
     #guitar-wall {
         background: url(../assets/pictures/guitar-wall.webp) no-repeat center center/cover;
         visibility: visible;
         width: 50%;
         height: 100vh;
         position: relative;
+        flex-wrap: wrap;
+    }
+
+    #jn-text {
+        position: absolute;
+        flex: 1;
+        flex-wrap: wrap;
+        margin-left: 50%;
+        margin-top: 32vh;
+        padding: 0 5%;
     }
 
     #socials {
