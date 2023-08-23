@@ -118,6 +118,7 @@ li > a {
     padding-top: 10px;
 }
 
+
 fieldset {
     padding-left: 2vh;
     padding-right: 2vh;
@@ -140,6 +141,10 @@ fieldset {
 
 .block-label {
     display: block;
+}
+
+#guitar-wall {
+    visibility: hidden;
 }
 
 /*footer styles*/
@@ -234,6 +239,14 @@ footer {
 
     fieldset {
         margin: 0 25%;
+    }
+
+    #guitar-wall {
+        background: url(../assets/pictures/guitar-wall.webp) no-repeat center center/cover;
+        visibility: visible;
+        width: 50%;
+        height: 100vh;
+        position: relative;
     }
 
     #socials {
