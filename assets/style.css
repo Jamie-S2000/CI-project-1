@@ -87,9 +87,13 @@ li {
     position: relative;
 }
 
+#location {
+    padding-top: 10px;
+}
+
 #googlemaps {
     width: 100%;
-    height: 60vh;
+    height: 30vh;
 }
 
 /*footer styles*/
@@ -178,7 +182,8 @@ footer {
     }
 
     #googlemaps {
-        width: 50%;
+        width: 100%;
+        height: 40vh;
     }
 
     #socials {
