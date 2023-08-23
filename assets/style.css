@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates:ital,wght@1,500&display=swap');
 
+/*wildcard for margins*/
 * {
     padding: 0;
     margin: 0;
@@ -119,7 +120,7 @@ li > a {
     padding-top: 10px;
 }
 
-
+/*form styles*/
 fieldset {
     padding-left: 2vh;
     padding-right: 2vh;
@@ -149,6 +150,7 @@ fieldset {
     display: block;
 }
 
+/*jam styles*/
 #guitar-wall {
     background: url(../assets/pictures/guitar-wall.webp) no-repeat center center/cover;
     height: 75vh;
@@ -186,6 +188,7 @@ footer {
 /*tablets and larger*/
 @media screen and (min-width: 768px) {
 
+    /*generl styles*/
     body {
         font-size: 1.3rem;
     }
@@ -198,6 +201,7 @@ footer {
         font-size: 1.25rem;
     }
 
+    /*main styles*/
     #about-us {
         display: flex;
         flex-direction: row;
@@ -246,10 +250,12 @@ footer {
         height: 40vh;
     }
 
+    /*form styles*/
     fieldset {
         margin: 0 25%;
     }
 
+    /*jam styles*/
     #jam-nights {
         display: flex;
         flex-direction: row;
@@ -281,6 +287,7 @@ footer {
     }
 }
 
+/*large screens*/
 @media screen and (min-width: 1024px) {
     #about-us-text {
         padding: 0 7.5%;
