@@ -122,8 +122,8 @@ li > a {
 fieldset {
     padding-left: 2vh;
     padding-right: 2vh;
-    margin-left: 12.5%;
-    margin-right: 12.5%;
+    margin-left: 5%;
+    margin-right: 5%;
     text-align: center;
 }
 
@@ -149,7 +149,10 @@ fieldset {
 }
 
 #guitar-wall {
-    visibility: hidden;
+    background: url(../assets/pictures/guitar-wall.webp) no-repeat center center/cover;
+    height: 75vh;
+    width: 100%;
+    position: relative;
 }
 
 /*footer styles*/
