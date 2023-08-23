@@ -79,6 +79,14 @@ li {
     padding-bottom: 5px;
 }
 
+li > a {
+    color: inherit;
+}
+
+#text-link {
+    text-decoration: solid #181818 2px;
+}
+
 #strat {
     background: url(../assets/pictures/strat.webp) no-repeat center  center/cover;
     height: 50vh;
@@ -193,7 +201,7 @@ footer {
         flex-wrap: wrap;
         flex: 1;
         margin-left: 50%;
-        margin-top: 37vh;
+        margin-top: 32vh;
         padding: 0 5%;
     }
 
