@@ -127,6 +127,11 @@ fieldset {
     text-align: center;
 }
 
+.text-form {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
+
 .button {
     font-family:'Montserrat', sans-serif;
     font-size: 1rem;
