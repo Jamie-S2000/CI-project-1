@@ -40,6 +40,19 @@ header nav {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    display: none;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 header a {
