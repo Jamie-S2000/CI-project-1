@@ -3,8 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descrption" content="A small independent guitar store in the center of Newcastle upon Tyne">
+    <meta name="keywords" content="Jamie's Guitar Store, guitar shop, music, music shop, Newcastle">
     <title>Jamie's Guitar Shop</title>
     <link rel="stylesheet" href="assets/style.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
     <header>
@@ -16,10 +23,12 @@
             <label for="nav-toggle" class="nav-toggle-label">
             <i class="fa-solid fa-bars"></i>
             </label>
-            <nav class="no-list">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="guitartech.html">Guitar tech</a></li>
-                <li><a href="jamnights.html">Jam Nights</a></li>
+            <nav>
+                <ul class="no-list">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="guitartech.html">Guitar tech</a></li>
+                    <li><a href="jamnights.html">Jam Nights</a></li>
+                </ul>
             </nav>
         </section>
     </header>
@@ -49,7 +58,7 @@
                         <br>
                         <label for="form-reason">What do you need doing:</label>
                         <br>
-                        <textarea id="form-reason" rows="10vh" cols="20vh" name="reason" class="text-form" required></textarea>
+                        <textarea id="form-reason" rows="10" cols="20" name="reason" class="text-form" required></textarea>
                         <br>
                         <input type="submit" id="submit" value="Submit" class="button">
                         <button type="reset" id="reset" class="button">Reset</button>
