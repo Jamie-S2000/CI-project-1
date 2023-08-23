@@ -34,6 +34,27 @@
                 <li>Please fill out the form below to let us know what you need and we'll get in contact</li>
             </ul>
         </section>
+        <div>
+            <fieldset id="tech-form" class="center-text">
+                <legend>Get in Contact</legend>
+                    <form method="post" action=""> <!-- need site to send to added -->
+                        
+                        <label for="form-name" class="block-label">Full Name:</label>
+                        <input id="form-name" type="text" name="name" required>
+                        <br>
+                        <label for="form-email" class="block-label">Email:</label>
+                        <input id="form-email" type="email" name="email" required>
+                        
+                        <br>
+                        <label for="form-reason">What do you need doing:</label>
+                        <br>
+                        <textarea id="form-reason" rows="10vh" cols="20vh" name="reason"></textarea>
+                        <br>
+                        <input type="submit" value="Submit">
+                        <button type="reset">Reset</button>
+                    </form>
+            </fieldset>
+        </div>
     </main>
 
     <footer>

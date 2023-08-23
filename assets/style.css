@@ -110,6 +110,10 @@ li {
     padding-top: 10px;
 }
 
+#tech-form {
+    margin: 0 7.5%;
+}
+
 /*footer styles*/
 footer {
     margin-top: auto;
