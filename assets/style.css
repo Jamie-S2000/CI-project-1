@@ -22,7 +22,7 @@ h1, h2 {
 
 /*Header Styles*/
 header {
-    background-color: #A37856;
+    background-color: #F2AB5D;
     text-align: center;
     text-transform: capitalize;
     width: 100%;
@@ -109,7 +109,7 @@ li {
 footer {
     margin-top: auto;
     flex: 0;
-    background-color: #A37856;
+    background-color: #F2AB5D;
     width: 100%;
     max-height: fit-content;
 }
