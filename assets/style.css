@@ -21,6 +21,10 @@ h1, h2 {
     text-transform: capitalize;
 }
 
+h2 {
+    margin-top: 0.5rem;
+}
+
 /*Header Styles*/
 header {
     background-color: #F2AB5D;
