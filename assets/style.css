@@ -89,8 +89,8 @@ li > a {
     padding-right: 5px;
 }
 
-#text-link {
-    text-decoration: solid #181818 2px;
+.text-link {
+    padding: 0 1rem;
 }
 
 #strat {
