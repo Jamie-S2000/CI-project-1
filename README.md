@@ -217,3 +217,20 @@ Each link opens in a new tab as they are going to external websites.
 <img src="assets/readme-imgs/social-links.webp">
 
 <br>
+
+- __Guitar Technicians__
+
+This page gives users some information about the guitar store technicions and allows them to submit a form to contact one.
+
+Some features of the form are:
+
+* Each field being required before submition.
+
+* A section for the user to tell the shop what they need help with.
+
+* Submit and Reset buttons that change colour when hovered over.
+
+* Users are sent to another page once the form is submited.
+
+<img src="assets/readme-imgs/tech-form.webp">
+
