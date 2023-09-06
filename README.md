@@ -142,3 +142,18 @@ The opening times section allows useres to know when they can visit and call the
 
 - __Where To Find Us__
 
+This section has 2 key features:
+
+**Address**
+
+This allows users to find the shop via map apps.
+
+**Map**
+
+This is taken from google maps.
+
+* The map is embeded from google maps and so is fully interactable.
+
+* The map allows users of the website to get a general location of the shop making it easier to find.
+
+<img src="assets/readme-imgs/map.webp">
