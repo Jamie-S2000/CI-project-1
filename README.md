@@ -88,10 +88,21 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 
 ### Existing Features
 
--__Navigation Dropdown__
+- __Navigation Dropdown__
 
 * The navigation dowpdown menu is there to help users navigate the site.
 
 * It has links to the home page, guitar jamns page and guitar techs page.
 
 <img src="assets/readme-imgs/nav-bar.webp">
+
+- __Sticky Navigation bar__
+
+* The sticky navigation bar allows users to navigate the site no matter where on the page they are.
+
+* It sticks in a fixed posiytion on the top of each page.
+
+* It uses a burger icon to helkp the user reconise it's use.
+
+<img src="assets/readme-imgs/sticky-bar.webp">
+
