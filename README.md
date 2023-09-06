@@ -123,3 +123,14 @@ The links to eacfh image is:
 * Asorted guitars (guitar jams image): https://www.pexels.com/photo/electric-guitars-on-display-5396357/
 
 <img src="assets/readme-imgs/guitar-imgs.webp">
+
+- __About Us Section__
+
+The about us section gives some basic information about the shop and can direct users to other pages.
+
+* It lays out what the store is, what they sell and what services they can provide.
+
+* there are also links within the text so users can get to other pages of the website.
+
+<img src="assets/readme-imgs/about-us.webp">
+
