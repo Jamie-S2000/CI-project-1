@@ -75,3 +75,12 @@ The colours of the site were chosen to match the colours of the guitars and to c
 * Finally the background of the whole site is an off-white making it easier to look at whilst also matching the white on the Stratocatser.
 
 <img src="assets/readme-imgs/colours.webp">
+
+- __Typography__
+
+The fonts were chosen to allow for easy reading in the document whilst the titles give a more welcoming vibe.
+
+* Montserrat Alternatives: Gives the titles a more laid back and welcoming vibe to the site whist staying easily readable.
+
+* Monserrat: This is a clear and concise font that is easiliy legible whilst being a slightlyu toned down version of the title font.
+
