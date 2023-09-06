@@ -24,6 +24,8 @@ These are people who:
 
 * Are looking for a guitar tech for any alterations to their guitars.
 
+<br>
+
 - __User Stories__
 
     * As a user, I want to find out more about Jamie's Guitar Shop.
@@ -33,6 +35,8 @@ These are people who:
     * As a user, I wnat to find a community of guitar players.
 
     * As a user, I want to find a reliable guitar tech.
+
+<br>
 
 - __Site Objectives__
 
@@ -48,6 +52,8 @@ These are people who:
 
     * To help customers get in touch with a guitar tech.
 
+<br>
+
 - __Approach__
 
     * The site will be created witht he principles of user design.
@@ -61,6 +67,8 @@ These are people who:
     * The site will be accessible.
 
     * The site will be easiliy navigated and consistant throughout.
+
+<br>
 
 - __Colour Scheme__
 
@@ -76,6 +84,8 @@ The colours of the site were chosen to match the colours of the guitars and to c
 
 <img src="assets/readme-imgs/colours.webp">
 
+<br>
+
 - __Typography__
 
 The fonts were chosen to allow for easy reading in the document whilst the titles give a more welcoming vibe.
@@ -83,6 +93,8 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 * Montserrat Alternatives: Gives the titles a more laid back and welcoming vibe to the site whist staying easily readable.
 
 * Monserrat: This is a clear and concise font that is easiliy legible whilst being a slightlyu toned down version of the title font.
+
+<br>
 
 ## Features
 
@@ -96,6 +108,8 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 
 <img src="assets/readme-imgs/nav-bar.webp">
 
+<br>
+
 - __Sticky Navigation bar__
 
 * The sticky navigation bar allows users to navigate the site no matter where on the page they are.
@@ -105,6 +119,8 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 * It uses a burger icon to helkp the user reconise it's use.
 
 <img src="assets/readme-imgs/sticky-bar.webp">
+
+<br>
 
 - __Images__
 
@@ -124,6 +140,8 @@ The links to eacfh image is:
 
 <img src="assets/readme-imgs/guitar-imgs.webp">
 
+<br>
+
 - __About Us Section__
 
 The about us section gives some basic information about the shop and can direct users to other pages.
@@ -134,11 +152,15 @@ The about us section gives some basic information about the shop and can direct 
 
 <img src="assets/readme-imgs/about-us.webp">
 
+<br>
+
 - __Opening Times__
 
 The opening times section allows useres to know when they can visit and call the shop.
 
 <img src="assets/readme-imgs/opening-times.webp">
+
+<br>
 
 - __Where To Find Us__
 
@@ -158,6 +180,8 @@ This is taken from google maps.
 
 <img src="assets/readme-imgs/map.webp">
 
+<br>
+
 - __Get In Contact__
 
 This section allows users to contact the shop.
@@ -171,4 +195,6 @@ They can contact the shop by:P
 Both of these are linked alowing users click the method of contact and they will be directed to their Email or Skype/phone dial.
 
 <img src="assets/readme-imgs/contact-us.webp">
+
+<br>
 
