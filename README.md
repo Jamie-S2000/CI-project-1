@@ -88,3 +88,10 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 
 ### Existing Features
 
+-__Navigation Dropdown__
+
+* The navigation dowpdown menu is there to help users navigate the site.
+
+* It has links to the home page, guitar jamns page and guitar techs page.
+
+<img src="assets/readme-imgs/nav-bar.webp">
