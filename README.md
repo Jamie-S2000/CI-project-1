@@ -106,3 +106,20 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 
 <img src="assets/readme-imgs/sticky-bar.webp">
 
+- __Images__
+
+* The images chosen were two of the most popular guitars on the home page and a selection on the jams page.
+
+* The home page guitars were chosen as they will be easily reconisable.
+
+* The selection was chosen to show more variation in guitars.
+
+The links to eacfh image is:
+
+* Stratocaster (1st home page image): https://www.pexels.com/photo/electric-guitar-amplifier-cord-port-808354/
+
+* Les Paul (2nd home page image): https://www.pexels.com/photo/close-up-shot-of-a-guitar-8134200/
+
+* Asorted guitars (guitar jams image): https://www.pexels.com/photo/electric-guitars-on-display-5396357/
+
+<img src="assets/readme-imgs/guitar-imgs.webp">
