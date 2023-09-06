@@ -245,3 +245,17 @@ It displays a small message thanking the user for sending a message and confirmi
 <img src="assets/readme-imgs/thank-you.webp>
 
 <br>
+
+-__Jam Nights__
+
+The Jam Night Page gives the user information on social nights at the shop.
+
+The page was desinged to be:
+
+* Welcoming to all players.
+
+* Informative to when they are.
+
+* Show inclucivity to anyone without an instrument.
+
+<br>
