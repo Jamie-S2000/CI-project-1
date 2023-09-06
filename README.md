@@ -134,3 +134,9 @@ The about us section gives some basic information about the shop and can direct 
 
 <img src="assets/readme-imgs/about-us.webp">
 
+- __Opening times__
+
+The opening times section allows useres to know when they can visit and call the shop.
+
+<img src="assets/readme-imgs/opening-times.webp">
+
