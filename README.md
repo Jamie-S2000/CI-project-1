@@ -8,7 +8,7 @@ The webiste is designed to show customers the services the shop provides.
 
 <!--add contents section-->
 
-##Planning and Development
+## Planning and Development
 
 - __Target Audience__
 
@@ -83,4 +83,8 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 * Montserrat Alternatives: Gives the titles a more laid back and welcoming vibe to the site whist staying easily readable.
 
 * Monserrat: This is a clear and concise font that is easiliy legible whilst being a slightlyu toned down version of the title font.
+
+## Features
+
+### Existing Features
 
