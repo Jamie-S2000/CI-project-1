@@ -34,3 +34,17 @@ These are people who:
 
     * As a user, I want to find a reliable guitar tech.
 
+- __Site Objectives__
+
+    * To inform customers of a local shop.
+
+    * To show the user where to find the shop.
+
+    * To give the user a way to contact the shop.
+
+    * To inform users when they can visit.
+
+    * To inform users when events are happening.
+
+    * To help customers get in touch with a guitar tech.
+
