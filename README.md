@@ -48,3 +48,17 @@ These are people who:
 
     * To help customers get in touch with a guitar tech.
 
+- __Approach__
+
+    * The site will be created witht he principles of user design.
+
+    * The site will provide users with information about the shop.
+
+    * The site will provide users with a way to contact the shop.
+
+    * The site will provide users with a way to find it on social media.
+
+    * The site will be accessible.
+
+    * The site will be easiliy navigated and consistant throughout.
+
