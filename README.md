@@ -24,3 +24,13 @@ These are people who:
 
 * Are looking for a guitar tech for any alterations to their guitars.
 
+- __User Stories__
+
+    * As a user, I want to find out more about Jamie's Guitar Shop.
+
+    * As a user, I want to find a local guitar shop.
+
+    * As a user, I wnat to find a community of guitar players.
+
+    * As a user, I want to find a reliable guitar tech.
+
