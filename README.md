@@ -6,3 +6,7 @@ The webiste is designed to show customers the services the shop provides.
 
 <img src="assets/readme-imgs/am-i-responsive.webp">
 
+<!--add contents section-->
+
+##Planning and Development
+
