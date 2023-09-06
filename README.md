@@ -10,3 +10,8 @@ The webiste is designed to show customers the services the shop provides.
 
 ##Planning and Development
 
+- __Target Audience__
+
+The target audience for the website is Guitar Players.
+
+The website aims to infrom guitarists of the services and products provided by the shop.
