@@ -157,3 +157,18 @@ This is taken from google maps.
 * The map allows users of the website to get a general location of the shop making it easier to find.
 
 <img src="assets/readme-imgs/map.webp">
+
+- __Get In Contact__
+
+This section allows users to contact the shop.
+
+They can contact the shop by:P
+
+* Email
+
+* Phone
+
+Both of these are linked alowing users click the method of contact and they will be directed to their Email or Skype/phone dial.
+
+<img src="assets/readme-imgs/contact-us.webp">
+
