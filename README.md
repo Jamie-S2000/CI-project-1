@@ -62,3 +62,16 @@ These are people who:
 
     * The site will be easiliy navigated and consistant throughout.
 
+- __Colour Scheme__
+
+The colours of the site were chosen to match the colours of the guitars and to contrast eachother.
+
+* The yellow colour was picked as a common colour for acoustic guitars while matching the Les Paul image.
+
+* The dark purple was piced for titles and social links as it contrasts the yellow and gives some varience from the text.
+
+* The text is a very dark grey chosen to make the text slightly less harsh wile aslo maintaining contrast
+
+* Finally the background of the whole site is an off-white making it easier to look at whilst also matching the white on the Stratocatser.
+
+<img src="assets/readme-imgs/colours.webp">
