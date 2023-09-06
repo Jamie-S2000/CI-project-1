@@ -166,11 +166,11 @@ The opening times section allows useres to know when they can visit and call the
 
 This section has 2 key features:
 
-**Address**
+*Address*
 
 This allows users to find the shop via map apps.
 
-**Map**
+*Map*
 
 This is taken from google maps.
 
@@ -198,3 +198,22 @@ Both of these are linked alowing users click the method of contact and they will
 
 <br>
 
+- __Social Links__
+
+The footer contains all the social media links for users to follow and find out more about the shop.
+
+It contains links to:
+
+* Facebook
+
+* X/Twitter
+
+* Instagram
+
+They are represeneted by icons taken from https://fontawesome.com.
+
+Each link opens in a new tab as they are going to external websites.
+
+<img src="assets/readme-imgs/social-links.webp">
+
+<br>
