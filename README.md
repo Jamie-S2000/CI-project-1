@@ -242,7 +242,7 @@ The Thank You Page displays when a user has submitted a form.
 
 It displays a small message thanking the user for sending a message and confirming their request has been sent.
 
-<img src="assets/readme-imgs/thank-you.webp>
+<img src="assets/readme-imgs/thank-you.webp">
 
 <br>
 
