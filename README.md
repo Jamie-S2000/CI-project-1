@@ -259,3 +259,17 @@ The page was desinged to be:
 * Show inclucivity to anyone without an instrument.
 
 <br>
+
+## Testing
+
+The site was tested thoughout development on these devises:
+
+* HP Omen with a 17" display - Chrome, Edge
+
+* 27" monitor - Chrome, Edge (The website was ran on the HP Omen and this was to check sizing on larger displays)
+
+* Samsung Galaxy S21 Ultra - Chrome, Samsung Internet
+
+* IPad Air - Safari
+
+* IPhone 13 - Safari
