@@ -246,7 +246,7 @@ It displays a small message thanking the user for sending a message and confirmi
 
 <br>
 
--__Jam Nights__
+- __Jam Nights__
 
 The Jam Night Page gives the user information on social nights at the shop.
 
