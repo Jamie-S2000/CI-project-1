@@ -378,3 +378,11 @@ https://jamie-s2000.github.io/jamies-guitar-shop/index.html
 
 The code languages used are HTML and CSS
 
+## Softwere
+
+Visual Studio Code was used to create and push the code to GitHub.
+
+Git for versioon control
+
+https://cloudconvert.com to convert images to .webp
+
