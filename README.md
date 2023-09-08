@@ -353,3 +353,16 @@ This was fixed and there were no other issues.
 I ran the CSS through the W3C validator and found no issues.
 
 <img src="assets/readme-imgs/css-validator.webp">
+
+- __Performace Testing__
+
+The performace testing fot he site was ran though Lighthouse on Google Dev-tools.
+
+The scores are all very high.
+
+<img src="assets/readme-imgs/lighthouse-score.webp">
+
+The site was also ran though a WCAG contrast checker where everything passed.
+
+<img src="assets/readme-imgs/contrast-checker.webp">
+
