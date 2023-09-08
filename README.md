@@ -323,3 +323,9 @@ I tested the submit button to make sure it directed the user to the correct page
 The reste button wast tested to mkae sure it rest all the data in the form.
 
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
+
+- __Testing The Thank You Page__
+
+I tested the links in the dropdown menu and that they all went to the correct page.
+
+I tested all the social media links to make sure they all open in new tabs and go to the correct links.
