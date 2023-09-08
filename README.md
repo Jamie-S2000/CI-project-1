@@ -378,11 +378,35 @@ https://jamie-s2000.github.io/jamies-guitar-shop/index.html
 
 The code languages used are HTML and CSS
 
-## Softwere
+## Software
 
 Visual Studio Code was used to create and push the code to GitHub.
 
 Git for versioon control
 
 https://cloudconvert.com to convert images to .webp
+
+## Media
+
+The images used are from pexels.com
+
+* Stratocaster by Yigithan Bal (1st home page image): https://www.pexels.com/photo/electric-guitar-amplifier-cord-port-808354/
+
+* Les Paul by Mateusz Taciak (2nd home page image): https://www.pexels.com/photo/close-up-shot-of-a-guitar-8134200/
+
+* Asorted guitars by Neha Malik (guitar jams image): https://www.pexels.com/photo/electric-guitars-on-display-5396357/
+
+<img src="assets/readme-imgs/guitar-imgs.webp">
+
+The social media icons used are from https://fontawsome.com
+
+* Facebook: https://fontawesome.com/icons/facebook-f?f=brands&s=solid
+
+* X/Twitter: https://fontawesome.com/icons/x-twitter?f=brands&s=solid
+
+* Instagram: https://fontawesome.com/icons/instagram?f=brands&s=solid
+
+The favicon used is from https://favicon.io
+
+The favicon used is: https://favicon.io/emoji-favicons/guitar
 
