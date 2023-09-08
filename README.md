@@ -304,7 +304,7 @@ This was fixed by removing the spaces and the link now works:
 <a href="tel:+441234567890">
 ```
 
-I tested the email link to mkae sure it allowed users to send an email tot he address.
+I tested the email link to mkae sure it allowed users to send an email to the address.
 
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
 
