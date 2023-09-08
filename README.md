@@ -273,3 +273,32 @@ The site was tested thoughout development on these devises:
 * IPad Air - Safari
 
 * IPhone 13 - Safari
+
+Google Dev-tools was also used thoughout to test responciveness.
+
+- __Testing the home page__
+
+I tested the links in the dropdown menu and that they all went to the correct page.
+
+I tested the links in the about us section to make sure they also went to the correct page.
+
+I tested the map to make sure it could be moved, zoomed in on and opened in a new tab.
+
+I tested the phone numbger link which at first was not working.
+
+This was due to having spaces in:
+
+```
+<a href="tel: +44 1234 567890">
+```
+
+This was fixed by removing the spaces and the link now works:
+
+```
+<a href="tel:+441234567890">
+```
+
+I tested the email link to mkae sure it allowed users to send an email tot he address.
+
+I tested all the social media links to make sure they all open in new tabs and go to the correct links.
+
