@@ -410,3 +410,29 @@ The favicon used is from https://favicon.io
 
 The favicon used is: https://favicon.io/emoji-favicons/guitar
 
+## Credits
+
+The Navigation Menu's dropdown code is taken from the Code Institute Walkthough project "Love Running"
+
+```
+    <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+```
+
+and
+
+```
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+```
