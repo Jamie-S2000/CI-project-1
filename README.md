@@ -331,3 +331,11 @@ I tested all the social media links to make sure they all open in new tabs and g
 I tested the links in the dropdown menu and that they all went to the correct page.
 
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
+
+- __Testing The Jam Nights Page__
+
+I tested the links in the dropdown menu and that they all went to the correct page.
+
+The responciveness of the page was tested to make sure the images and text changed positions at the correct breakpoints.
+
+I tested all the social media links to make sure they all open in new tabs and go to the correct links.
