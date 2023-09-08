@@ -366,3 +366,15 @@ The site was also ran though a WCAG contrast checker where everything passed.
 
 <img src="assets/readme-imgs/contrast-checker.webp">
 
+## Deployment
+
+The site was deployed to GitHub pages.
+
+The live link is:
+
+https://jamie-s2000.github.io/jamies-guitar-shop/index.html
+
+## Languages
+
+The code languages used are HTML and CSS
+
