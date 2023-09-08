@@ -342,7 +342,7 @@ I tested all the social media links to make sure they all open in new tabs and g
 
 - __Validator Testing__
 
-I ran each page of the site though the W3C code validator.
+I ran each page of the site through the W3C code validator.
 
 I had one issue with the nav bar having no ul element but having li elements.
 
@@ -356,13 +356,13 @@ I ran the CSS through the W3C validator and found no issues.
 
 - __Performace Testing__
 
-The performace testing fot he site was ran though Lighthouse on Google Dev-tools.
+The performance testing for the site was ran through Lighthouse on Google Dev-tools.
 
 The scores are all very high.
 
 <img src="assets/readme-imgs/lighthouse-score.webp">
 
-The site was also ran though a WCAG contrast checker where everything passed.
+The site was also ran through a WCAG contrast checker where everything passed.
 
 <img src="assets/readme-imgs/contrast-checker.webp">
 
@@ -382,7 +382,7 @@ The code languages used are HTML and CSS
 
 Visual Studio Code was used to create and push the code to GitHub.
 
-Git for versioon control
+Git for version control
 
 https://cloudconvert.com to convert images to .webp
 
@@ -412,7 +412,7 @@ The favicon used is: https://favicon.io/emoji-favicons/guitar
 
 ## Credits
 
-The Navigation Menu's dropdown code is taken from the Code Institute Walkthough project "Love Running"
+The Navigation Menu's dropdown code is taken from the Code Institute Walkthrough project "Love Running"
 
 ```
     <input type="checkbox" id="nav-toggle" name="nav-toggle">
