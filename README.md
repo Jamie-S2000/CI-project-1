@@ -100,6 +100,12 @@ The fonts were chosen to allow for easy reading in the document whilst the title
 
 ### Existing Features
 
+- __Favicon__
+
+* The favicon was chosen to be relevent to the website and to suit the colours.
+
+<img src="assets/readme-imgs/favicon.webp">
+
 - __Navigation Dropdown__
 
 * The navigation dowpdown menu is there to help users navigate the site.
