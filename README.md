@@ -308,3 +308,18 @@ I tested the email link to mkae sure it allowed users to send an email tot he ad
 
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
 
+- __Testing The Guitar Technicians Page__
+
+I tested the links in the dropdown menu and that they all went to the correct page.
+
+I tested each text box to make sure they were all required.
+
+I tested the email text box to make sure it had to have an email submited.
+
+I tested the submit and reset buttons to make sure they changed colours when hovered over.
+
+I tested the submit button to make sure it directed the user to the correct page. This was also tested to make sure it wont allow a form to be submitted without all the information.
+
+The reste button wast tested to mkae sure it rest all the data in the form.
+
+I tested all the social media links to make sure they all open in new tabs and go to the correct links.
