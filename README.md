@@ -306,6 +306,8 @@ This was fixed by removing the spaces and the link now works:
 
 I tested the email link to mkae sure it allowed users to send an email to the address.
 
+The responciveness of the page wa stested to make sure the images and text changed positions at the correct breakpoints.
+
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
 
 - __Testing The Guitar Technicians Page__
