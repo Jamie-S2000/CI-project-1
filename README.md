@@ -340,3 +340,16 @@ The responsiveness of the page was tested to make sure the images and text chang
 
 I tested all the social media links to make sure they all open in new tabs and go to the correct links.
 
+- __Validator Testing__
+
+I ran each page of the site though the W3C code validator.
+
+I had one issue with the nav bar having no ul element but having li elements.
+
+This was fixed and there were no other issues.
+
+<img src="assets/readme-imgs/html-checker.webp">
+
+I ran the CSS through the W3C validator and found no issues.
+
+<img src="assets/readme-imgs/css-validator.webp">
